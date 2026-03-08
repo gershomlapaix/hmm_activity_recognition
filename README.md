@@ -356,7 +356,8 @@ All plots are automatically saved to the `outputs/` directory:
 This is an academic project for **ML Techniques II - Formative 2** at African Leadership University (ALU).
 
 **Team Members:**
-- Add your names here
+- Gershom Nsengiyumva
+- Eliel Ntwali
 
 **Instructor/Course:**
 - ML Techniques II
